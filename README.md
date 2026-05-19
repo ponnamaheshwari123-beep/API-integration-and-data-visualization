@@ -33,4 +33,4 @@ This project has many real-world applications. It can be used in weather monitor
 
 In conclusion, the “API Integration and Data Visualization” project explains how Python can be used to fetch, process, and visualize real-time data from APIs. It is an important concept in modern technology because visual representation of live data helps users understand information quickly and make better decisions.
 
-Get smarter responses, upload files and images, and more.
+OUTPUT:<img width="915" height="289" alt="Image" src="https://github.com/user-attachments/assets/14b09910-b8fa-4ce4-84e4-352c796829cb" />
